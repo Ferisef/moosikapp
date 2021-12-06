@@ -1,10 +1,9 @@
 {
   "name": "moosikapp-backend",
+  "description": "",
   "version": "5.16.236",
-  "author": {
-    "name": "Xanede"
-  },
   "license": "MIT",
+  "author": "xanedesu",
   "private": true,
   "scripts": {
     "start": "cross-env NODE_ENV=production node dist/index.js",
